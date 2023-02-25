@@ -1,1 +1,1 @@
-<img src="logo.png" alt="альтернативный текст">
+<img src="logo1.png" alt="альтернативный текст">
